@@ -206,5 +206,9 @@ console.log(sumaValores);
 
 console.log (filtro);
 
+<<<<<<< HEAD
 console.log("mensaje para probar el concepto de ramas"); 
 
+=======
+console.log("nuevaRama");
+>>>>>>> nuevaRama
