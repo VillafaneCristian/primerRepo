@@ -204,3 +204,6 @@ let sumaValores = valores.reduce(function(estado,numero){
 
 console.log(sumaValores);
 
+console.log (filtro);
+
+
